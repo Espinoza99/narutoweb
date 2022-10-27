@@ -27,7 +27,7 @@
      transform: translateZ(-1px) scale(.9) translateX(-10%);
  }
  
- .fg 2 {
+ .fg2 {
      height: 100vh;
      z-index: 1;
      position: absolute;
